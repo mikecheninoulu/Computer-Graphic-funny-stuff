@@ -1,0 +1,58 @@
+Using GLEW 1.13.0
+GL_KHR_debug defined (OpenGL 4.3 feature).
+SDL_GL_CONTEXT_MAJOR_VERSION: 3
+SDL_GL_CONTEXT_MINOR_VERSION: 2
+Initial width and height: 640 x 480
+Mouse button down at : 129, 479 button:  down: 1
+Mouse button down at : 129, 479 button:  down: 2
+Mouse button down at : 450, 3 button:  down: 1
+Mouse button down at : 140, 51 button:  down: 1
+Total stars 4
+Total stars 5
+Total stars 6
+Total stars 7
+Total stars 8
+Total stars 9
+Total stars 10
+Total stars 11
+Total stars 12
+Turn left
+Turn left
+Turn left
+Turn right
+Turn right
+Go up
+Go up
+Go up
+Go up
+Turn right
+Go down
+Go down
+Turn right
+Turn right
+MOUSE : WHEEL UP
+MOUSE : WHEEL UP
+MOUSE : WHEEL UP
+MOUSE : WHEEL UP
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+Go down
+Go down
+Turn left
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL DOWN
+MOUSE : WHEEL UP
+MOUSE : WHEEL UP
+MOUSE : WHEEL UP
+MOUSE : WHEEL UP
+MOUSE : WHEEL UP
+Go up
+Mouse button down at : 359, 207 button:  down: 1
+Program is closed
