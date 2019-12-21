@@ -8,4 +8,4 @@ Press key ‘m’ to add one star. Max for 30 stars.
 Press key ‘n’ to remove one star.
 Press key ’q’ to quit the program.
 
-
+![demo](assignment1.PNG)
